@@ -5,8 +5,8 @@ on:
   workflow_dispatch:
 
 env:
-  REMOTE_REPOSITORY: danpawlik/openwrt
-  REMOTE_BRANCH: w1700k
+  REMOTE_REPOSITORY: OpenWRT-fanboy/OpenW1700k
+  REMOTE_BRANCH: lumos
   RELEASE_PREFIX: airoha
 
 jobs:
